@@ -1,0 +1,14 @@
+# 🧠 SilentSpeech AI
+
+🎤 Lip reading and voice generation app using Python + Streamlit.
+
+## 🔧 Features
+- Upload a silent video
+- Extract lip movement → Predict text
+- Convert to speech using gTTS
+
+## 🚀 Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run silentspeech_app.py
